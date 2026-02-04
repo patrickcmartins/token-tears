@@ -1,8 +1,8 @@
 ## ✅ Working Setup: Power Platform CLI on Pop!_OS (Feb 2026)
 
 ### 💀 Linux user working with f̶u̶c̶k̶i̶n̶ Microsoft here.
->I got stuck on a project where I had to learn Power Apps—and that f̶u̶c̶k̶i̶n̶ interface was killing me. First came Dataverse and database setup. Then the worst part: frontend "development." Jesus Christ, I barely know HTML. Just kidding—the drag-and-drop editor drove me mad.
-So I dove into the void, searching for a way to actually write code—React, anything. That's when I found it: Code Components (aka Power Apps CLI + Fluent UI). We were running out of time; one screen was taking a full day to build with the visual editor.
+>I got stuck on a project where I had to learn Power Apps and that f̶u̶c̶k̶i̶n̶ interface was killing me. First came Dataverse and database setup. Then the worst part: frontend "development." Jesus Christ, I barely know HTML. Just kidding the drag-and-drop editor drove me mad.
+So I dove into the void, searching for a way to actually write code React, anything. That's when I found it: Code Components (aka Power Apps CLI + Fluent UI). We were running out of time; one screen was taking a full day to build with the visual editor.
 Problem? Every setup tutorial assumed Windows. Obviously.
 But I take the philosophy "where there's a shell, there's a way" way too seriously. After hours of fighting npm, Node versions, and whipping poor Qwen AI into submission, I finally got it working on Linux.
 Would've been easier to just read the docs? Probably. But we all know how the real world works, right?
